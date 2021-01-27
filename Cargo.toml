@@ -1,0 +1,9 @@
+[package]
+name = "rust-playground"
+version = "0.0.1"
+authors = ["Lasse Todt <mail@lassetodt.de>"]
+edition = "2018"
+
+[dependencies]
+js-sys = "0.3"
+yew = "0.17"
